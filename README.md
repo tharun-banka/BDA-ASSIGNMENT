@@ -1,33 +1,70 @@
-# BDA-ASSIGNMENT
-📊 Big Data Analytics Assignment
-👨‍🎓 Student Details
-Name: Banka Tharun
-Course: Big Data Analytics (BDA)
-Institution: CBIT, Hyderabad
-📌 Project Overview
-This repository contains my Big Data Analytics assignment, implemented using Python in a Jupyter/Google Colab environment with Apache Spark (PySpark).
+# Big Data Analytics Assignment
 
-The objective of this project is to:
+## 👨‍🎓 Student Details
 
-Perform data preprocessing and cleaning
-Analyze datasets using statistical and computational techniques
-Apply machine learning methods such as clustering and classification
-Extract meaningful insights through visualization and interpretation
-🛠️ Tech Stack
-Language: Python 🐍
-Framework: Apache Spark (PySpark) ⚡
-Environment: Google Colab
-Libraries Used:
-NumPy
-Pandas
-Matplotlib
-Seaborn
-PySpark
-📂 Repository Structure
-BDA-Assignment ┣ 📜 BDA_160123771101.ipynb # Main notebook with analysis & models ┗ 📜 README.md # Project documentation
+* **Name:** Banka Tharun
+* **Course:** Big Data Analytics (BDA)
+* **Institution:** CBIT, Hyderabad
 
-⚙️ How to Run
-Clone the repository:
-git clone <https://github.com/Shivateja-31/Big-Data-Analytics.git>
-Open in Google Colab: Go to Google Colab Upload the .ipynb file Run the notebook: Execute all cells sequentially
+---
 
+## 📌 Project Overview
+
+This repository contains my **Big Data Analytics assignment**, implemented using Python in a Jupyter/Colab notebook environment.
+
+The objective of this assignment is to:
+
+* Perform data preprocessing and cleaning
+* Analyze datasets using statistical and computational techniques
+* Extract meaningful insights through visualization and interpretation
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Python 🐍
+* **Environment:** Google Colab
+* **Libraries Used:**
+
+  * NumPy
+  * Pandas
+  * Matplotlib
+  * Seaborn
+
+---
+
+## 📂 Repository Structure
+📁 BDA-Assignment
+
+  
+  ┣ 📜 BDA_160123771101.ipynb # Main notebook
+
+  ┗ 📜 README.md # Project documentation
+
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository:
+
+   ```bash
+   
+
+2. Open the notebook in:
+Jupyter Notebook
+OR upload to Google Colab
+3. Run all cells sequentially to reproduce results.   
+
+
+## 🎯 Learning Outcomes
+
+Through this assignment, I gained:
+
+Hands-on experience with data analysis workflows
+Better understanding of real-world datasets
+Improved visualization and interpretation skills
+
+## 🤝 Acknowledgment
+
+This assignment was completed as part of the academic curriculum for Big Data Analytics.
