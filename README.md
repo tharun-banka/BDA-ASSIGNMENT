@@ -49,7 +49,7 @@ The objective of this assignment is to:
 1. Clone the repository:
 
    ```bash
-   
+   https://github.com/tharun-banka/BDA-ASSIGNMENT
 
 2. Open the notebook in:
 Jupyter Notebook
